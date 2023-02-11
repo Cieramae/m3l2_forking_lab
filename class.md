@@ -1,2 +1,0 @@
-Ciera
-Front end developer 
